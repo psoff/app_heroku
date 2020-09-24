@@ -12,7 +12,7 @@
     "start": "node chat.js"
   },
   "engines": {
-      "node": "0.10.31"
+    "node": "0.10.31"
   },
   "author": "Joseph Esteban",
   "license": "ISC"
